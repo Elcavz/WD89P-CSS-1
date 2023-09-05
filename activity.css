@@ -1,0 +1,68 @@
+body {
+    background-color: #c6e2ba;
+}
+
+.icon {
+    background-color: #232323;
+    height: 35px;
+    margin-left: -8px;
+    margin-top: -8px;
+    margin-right: -5px;
+}
+
+.material-symbols-outlined {
+  color: antiquewhite;
+  padding-left: 104rem;
+  padding-top: 5px;
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.coding-img {
+    width: 48rem;
+    margin-left: 300px;
+    height: 20rem;
+}
+
+.coding-container {
+    display: flex;
+}
+
+.coding-h {
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.coding-p {
+    margin-top: 140px;
+    margin-left: -72px;
+    padding-right: 300px;
+}
+
+.gaming-img {
+    width: 48rem;
+    margin-right: 300px;
+    height: 20rem;
+}
+
+.gaming-container {
+    display: flex;
+}
+
+.gaming-h {
+    margin-left: 300px;
+    margin-top: 90px;
+}
+
+.gaming-p {
+    margin-top: 140px;
+    margin-left: -80px;
+    padding-right: 50px;
+}
