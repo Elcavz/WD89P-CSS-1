@@ -59,3 +59,33 @@ h1 {
 .cursor {
     cursor: pointer;
 }
+
+.background-picture {
+    background: url(coding.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.text-decor {
+    text-decoration: line-through underline overline;
+}
+
+.list-style {
+    list-style: japanese-formal;
+}
+
+.vertical {
+    vertical-align: sub;
+}
+
+.position {
+    position: ;
+}
+
+.visibility {
+    visibility: hidden;
+}
+
+.display1 {
+    display: ;
+}
